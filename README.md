@@ -1,3 +1,5 @@
+This is a react basic project using react and nextjs
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ![Screenshot Capture - 2024-03-11 - 22-51-53](https://github.com/JavacAman/React_Project_todoList/assets/60618495/66a86002-6959-4c5f-a131-26c9ccff9d84)
 ## Getting Started
